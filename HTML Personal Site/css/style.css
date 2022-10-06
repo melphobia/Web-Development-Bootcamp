@@ -1,6 +1,7 @@
 body {
   background-color: #F5EFE6;
 }
+
 hr   {
   border-style:  none;
       width:5%;
@@ -11,7 +12,12 @@ hr   {
 
   h1{
     color: #7895B2;
+    font-style: italic;
+    font-family: "Courier New",monospace;
   }
+
   h3{
-    color: #7895B2;
+    color: #AEBDCA;
+    font-family: "Monaco",monospace;
+
   }
