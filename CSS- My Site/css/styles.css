@@ -8,21 +8,16 @@ h1 {
 
 .top-container {
   background-color: #FDEEDC;
-  height: 200px;
-  width: 200px;
-
 }
 
 .middle-container {
   background-color: #FFD8A9;
-  height: 200px;
-  width: 200px;
-
 }
 
 .bottom-container {
   background-color: #E38B29;
-  height: 200px;
-  width: 200px;
+}
 
+.pro {
+  text-decoration: underline;
 }
